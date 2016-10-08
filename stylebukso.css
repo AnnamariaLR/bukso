@@ -1,0 +1,14 @@
+
+img {
+  border-radius: 50px;
+}
+/*nastavenie fontu cez universal selector*/
+*{
+  font-family: Calibri;
+}
+/*zmena farby, font-size a font-style h1*/
+h1 {
+  color: Blue;
+  font-size: 50px;
+  font-style: italic;
+}
